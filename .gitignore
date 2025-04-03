@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Output files
+*.out
+*.correct
+*.in
+*.txt
+
+# Java test reports
+test-output/
+*.log
+
+# Anything generated
+*.tmp
